@@ -1,0 +1,9 @@
+body {background-color: red;}
+@media screen and (max-widh: 200px)  { body {background-color: rgb(238, 253, 19);}
+}
+@media screen and (max-widh: 200px)  { body {background-color: rgb(167, 0, 103);}
+}
+@media screen and (max-widh: 180px)  { body {background-color: rgb(160, 40, 4);}
+}
+@media screen and (max-widh: 600px)  { body {background-color: rgb(59, 187, 0);}
+}
